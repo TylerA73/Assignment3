@@ -1,0 +1,16 @@
+Tyler Arseneault
+November 10, 2014
+Assignment 3
+
+Information: This is the dictionary program for Assignment 3. It will grab words from the text file, and input them into a dictionary. It will then display each word in alphabetical order with the frequency of occurence of each word. It is not case sensitive.
+
+Files associated: main.cpp, dictionary.cpp, testdata.txt, README, makefile
+
+
+Step 1: Change Directory to Assignment3 in Terminal.
+Step 2: In terminal, type "make" to compile the program.
+Step 3: In Terminal, type ./prog < testdata.txt to run the set of test data.
+
+
+github URL: https://github.com/TylerA73/Assignment3
+
